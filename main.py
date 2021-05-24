@@ -2,11 +2,12 @@ import requests
 from pygame import mixer 
 from datetime import datetime, timedelta
 import time
+import yaml
 
 
 age = 52
-pincodes = ["462003"]
-num_days = 2
+pincodes = ["823001"]
+num_days = 10
 
 print_flag = 'Y'
 
